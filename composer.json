@@ -1,5 +1,5 @@
 {
-    "name": "webjump/magento2-module-braspagpagador",
+    "name": "gabrielhaase/magento2-module-braspagpagador",
     "license": "MIT",
     "type": "magento2-module",
     "description": "Braspag Pagador integration for Magento 2",
@@ -21,7 +21,7 @@
         "laminas/laminas-stdlib": "^3.3",
         "laminas/laminas-escaper": "^2.5.2",
         "laminas/laminas-http": "^2.7",
-        "webjump/braspagpagador-sdk-adapter":"^1.2.5",
+        "webjump/braspagpagador-sdk-adapter": "^1.2.5",
         "webjump/mobiledetectlib": "^3.0"
     },
     "require-dev": {
@@ -35,14 +35,14 @@
         "pdepend/pdepend": "2.2.2|2.5.2",
         "phpunit/phpunit-selenium": ">=1.2",
         "satooshi/php-coveralls": "^1.0",
-        "magento-ecg/coding-standard":"dev-master",
+        "magento-ecg/coding-standard": "dev-master",
         "rregeer/phpunit-coverage-check": "^0.1.4",
         "friendsofphp/php-cs-fixer": "~1.10.0|~2.10"
     },
-    "authors":[
+    "authors": [
         {
-            "name":"Webjump Core Team",
-            "email":"dev@webjump.com.br"
+            "name": "Webjump Core Team",
+            "email": "dev@webjump.com.br"
         }
     ],
     "scripts": {
